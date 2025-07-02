@@ -20,11 +20,14 @@
             I am a passionate frontend developer with a love for crafting beautiful and functional web experiences. With a strong background in modern JavaScript frameworks and a keen eye for design, I strive to deliver high-quality solutions that delight users and drive results.
           </p>
           <p class="mb-8 text-lg md:text-xl max-w-xl mx-auto lg:mx-0 font-sans-pro text-gray-700 dark:text-gray-300 transition-colors duration-500">
-            As the youngest of six siblings, I chose not to pursue a degree in IT after my studies were cut short due to financial constraints. Determined to remain debt-free and avoid student loans, I am now focused on leveraging my diploma to secure a role in the IT industry. My resilience and practical mindset in overcoming challenges reflect my readiness to contribute meaningfully to any organization.
+            As the youngest of six siblings, I chose not to pursue a degree in IT after my studies were cut short due to financial constraints. Determined to remain debt free and avoid student loans, I am now focused on leveraging my diploma to secure a role in the IT industry. My resilience and practical mindset in overcoming challenges reflect my readiness to contribute meaningfully to any organization.
           </p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
             <a href="https://bobamilkutea.github.io/resume1/SyamirNorzalimi.pdf" target="_blank" rel="noopener" class="px-8 py-3 rounded-full font-semibold border-2 border-yellow-400 bg-yellow-400 text-black hover:bg-transparent hover:text-yellow-400 transition flex items-center gap-2 font-sans-pro">
               <span class="material-icons"></span> View Resume
+            </a>
+            <a href="https://bobamilkutea.github.io/syamircv/CVSyamir.pdf" target="_blank" rel="noopener" class="px-8 py-3 rounded-full font-semibold border-2 border-yellow-400 bg-yellow-400 text-black hover:bg-transparent hover:text-yellow-400 transition flex items-center gap-2 font-sans-pro">
+              <span class="material-icons"></span> View CV
             </a>
             <button @click="$emit('scrollToContact')" class="px-8 py-3 rounded-full font-semibold border-2 border-yellow-400 text-yellow-400 hover:bg-yellow-400 hover:text-black transition font-sans-pro">
               Hire Me
