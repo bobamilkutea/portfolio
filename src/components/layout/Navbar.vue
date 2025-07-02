@@ -74,7 +74,6 @@ const Menu = ref([
   { name: 'Skills', href: '#skills' },
   { name: 'Traits', href: '#traits' },
   { name: 'Why Me', href: '#whyme' },
-  { name: 'Projects', href: '#projects' },
   { name: 'Contact', href: '#contact' }
 ])
 

@@ -16,10 +16,10 @@
               Hi, I'm 
               <span class="relative px-2 font-extrabold text-black dark:text-white">Syamir</span>
           </h1>
-          <p class="mb-8 text-lg md:text-xl max-w-xl mx-auto lg:mx-0 font-sans-pro text-gray-900 dark:text-gray-100">
+          <p class="mb-8 text-lg md:text-xl max-w-xl mx-auto lg:mx-0 font-sans-pro text-gray-900 dark:text-gray-100 transition-colors duration-500">
             I am a passionate frontend developer with a love for crafting beautiful and functional web experiences. With a strong background in modern JavaScript frameworks and a keen eye for design, I strive to deliver high-quality solutions that delight users and drive results.
           </p>
-          <p class="mb-8 text-lg md:text-xl max-w-xl mx-auto lg:mx-0 font-sans-pro text-gray-700 dark:text-gray-300">
+          <p class="mb-8 text-lg md:text-xl max-w-xl mx-auto lg:mx-0 font-sans-pro text-gray-700 dark:text-gray-300 transition-colors duration-500">
             As the youngest of six siblings, I chose not to pursue a degree in IT after my studies were cut short due to financial constraints. Determined to remain debt-free and avoid student loans, I am now focused on leveraging my diploma to secure a role in the IT industry. My resilience and practical mindset in overcoming challenges reflect my readiness to contribute meaningfully to any organization.
           </p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -32,7 +32,7 @@
           </div>
       </header>
       <div class="flex justify-center lg:justify-end mt-8 lg:mt-0">
-        <img src="@/assets/profile.jpg" alt="Profile" class="w-56 h-56 object-cover rounded-full border-4 border-yellow-400 shadow-lg profile-img" />
+        <img src="@/assets/IMG_9233.jpg" alt="Profile" class="w-56 h-56 object-cover rounded-full border-4 border-yellow-400 shadow-lg profile-img" />
       </div>
   </main>
   </section>
@@ -123,7 +123,7 @@
   <!-- Contact Me Section -->
   <section id="contact" class="w-full py-16 bg-gradient-to-b from-transparent to-blue-200 dark:to-[#0E2148]">
     <h2 class="text-center text-4xl font-bold mb-6 text-gray-800 dark:text-white">Contact Me</h2>
-    <p class="text-center max-w-2xl mx-auto mb-8 text-lg text-gray-700 dark:text-gray-300">
+    <p class="text-center max-w-2xl mx-auto mb-8 text-lg text-gray-700 dark:text-gray-300 transition-colors duration-500">
       If you'd like to get in touch with me, please feel free to reach out at any time. Whether you have questions, need assistance, or simply want to share your thoughts, I'm here to listen and help. Your input is valuable, and I'm committed to providing the support and guidance you need. Contact me, and let's start the conversation.
     </p>
     <div class="flex flex-col md:flex-row justify-center items-center gap-8 bg-white/10 dark:bg-[#0E2148]/80 rounded-xl p-8 max-w-3xl mx-auto">
